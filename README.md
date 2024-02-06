@@ -20,7 +20,7 @@ video- https://youtu.be/r0e0SOElyrA?si=WWIFBEy9GHhh6Kqg
 - Rotate (10 deg everytime button is pressed).
 <img width="147" alt="image" src="https://github.com/tusharparimi/camera-app/assets/93556280/05d3d4ef-88bc-46ec-91ea-1a7ca5c4af2e">
 
-- Screen flash everytime an image is captured (like many camera interfaces out there) (IMprovement on basic functionality)
+- Screen flash everytime an image is captured (like many camera interfaces out there) (Improvement on basic functionality)
   
 video of features till now- https://www.youtube.com/shorts/yIJb12jJA0k
 
