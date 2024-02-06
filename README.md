@@ -1,6 +1,6 @@
 # camera-app
 
-This project involves making a camera application(capturing images and videos in real time any camera) using opencv with interactive buttons in UI(like Iphone camera app) and many more additional features like zoom, image processing filters and more fun stuff!
+This project involves making a camera application(capturing images and videos in real time any camera) using opencv in python with interactive buttons in UI(like Iphone camera app) and many more additional features like zoom, image processing filters and more fun stuff!
 
 ### Basic functionality-
 - Buttons for camera capture and toggle between IMG and VID modes.
